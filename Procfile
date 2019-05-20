@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT life_levers_web_3588.wsgi:application
